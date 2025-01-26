@@ -6,14 +6,14 @@ Bienvenido a la documentación de FoodLivery, una API en desarrollo diseñada pa
 
 FoodLivery API es una aplicación moderna que busca simplificar la gestión de pedidos para restaurantes y clientes. Este proyecto aún se encuentra en una fase inicial de desarrollo, por lo que se irán añadiendo nuevas funcionalidades en futuras versiones.
 
-## Requisitos previos
+## Tecnologias utilizadas para el desarrollo
 
-Antes de empezar, asegúrate de tener instaladas las siguientes herramientas en tu entorno de desarrollo:
-
-- **Node.js** >= versión 12.x  
+- **Node.js** 
 - **TypeScript**  
-- **Express**  
-- Otras dependencias listadas en el archivo `package.json`
+- **Express**
+- **Zod**: Utilizado para la validación y tipado de datos de forma segura.  
+- **Insomnia**: Herramienta recomendada para probar las rutas de la API durante el desarrollo.  
+
 
 ## Estructura del proyecto
 
