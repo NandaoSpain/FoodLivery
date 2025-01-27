@@ -6,13 +6,17 @@ Bienvenido a la documentación de FoodLivery, una API en desarrollo diseñada pa
 
 FoodLivery API es una aplicación moderna que busca simplificar la gestión de pedidos para restaurantes y clientes. Este proyecto aún se encuentra en una fase inicial de desarrollo, por lo que se irán añadiendo nuevas funcionalidades en futuras versiones.
 
-## Tecnologias utilizadas para el desarrollo
+## Tecnologías utilizadas para el desarrollo
 
-- **Node.js** 
-- **TypeScript**  
-- **Express**
+- **Node.js**: Entorno de ejecución de JavaScript en el servidor.  
+- **TypeScript**: Lenguaje tipado que mejora la calidad del código y la experiencia de desarrollo.  
+- **Express**: Framework minimalista para construir aplicaciones web y APIs.  
 - **Zod**: Utilizado para la validación y tipado de datos de forma segura.  
 - **Insomnia**: Herramienta recomendada para probar las rutas de la API durante el desarrollo.  
+- **Prisma ORM**: Utilizado para la interacción con la base de datos de forma sencilla y eficiente.  
+- **Docker Compose**: Facilita la creación y gestión de contenedores para entornos de desarrollo y producción.  
+
+Estas herramientas forman el núcleo del desarrollo de FoodLivery y ayudan a garantizar una arquitectura moderna y escalable. 
 
 
 ## Estructura del proyecto
