@@ -16,7 +16,8 @@ FoodLivery API es una aplicación moderna que busca simplificar la gestión de p
 - **Zod**: Utilizado para la validación y tipado de datos de forma segura.  
 - **Insomnia**: Herramienta recomendada para probar las rutas de la API durante el desarrollo.  
 - **Prisma ORM**: Utilizado para la interacción con la base de datos de forma sencilla y eficiente.  
-- **Docker Compose**: Facilita la creación y gestión de contenedores para entornos de desarrollo y producción.  
+- **Docker Compose**: Facilita la creación y gestión de contenedores para entornos de desarrollo y producción.
+- **JWT (JSON Web Tokens)**: Utilizado para implementar la autenticación basada en tokens de manera segura.   
 
 ---
 
