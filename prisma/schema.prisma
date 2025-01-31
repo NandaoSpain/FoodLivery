@@ -24,7 +24,7 @@ model User {
   email String  @unique
   password String
 
-  role  UserRole @default(customer)
+  role  UserRole @default(sale)
 
   deliveries Delivery[]
   
